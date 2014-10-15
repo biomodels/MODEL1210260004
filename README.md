@@ -1,3 +1,21 @@
+# MODEL1210260004: MODEL
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/MODEL1210260004.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/MODEL1210260004.git@20140916`
+
+
+# Model Notes
 
     
     
@@ -10,4 +28,5 @@
     E-mail: jbassaga@vt.edu
     
     This model represents the interaction between Cdiff, miRNA146b, NCOA4, PPARg, IL10 and IL17. Simulation studies show an aberrant expression of miRNA146b with increasing concentrations of Cdiff over time, which results in decreased PPARg activation due to NCOA4 inhibition. As a final result, PPARg is unable to modulate effector and regulatory responses, since results show an upregulation of IL17 expression and downregulation of IL10 production.
+
 
